@@ -1,0 +1,20 @@
+.row{
+    padding: 40px;
+}
+
+#fotodeperfil{
+    width: 65%;
+}
+
+
+div{
+    background-color: rgb(15, 15, 15);
+    text-align: center;
+    color: white;
+}
+
+#nombre{
+    font-size: large;
+    margin-top: 50px;
+    font-weight: bold;
+}
