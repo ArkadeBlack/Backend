@@ -9,6 +9,7 @@ import { SocialMComponent } from './components/social-m/social-m.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +17,7 @@ import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
     LogoApComponent,
     SocialMComponent,
     BannerComponent,
-    AcercaDeComponent
+    AcercaDeComponent,
   ],
   imports: [
     BrowserModule,

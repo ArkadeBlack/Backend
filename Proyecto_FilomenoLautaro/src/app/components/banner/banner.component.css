@@ -1,79 +1,84 @@
 .banner {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 500px;
-    overflow: hidden;
-  }
-  
-  .banner img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: -1;
-  }
-  
-  .banner-text {
-    text-align: center;
-    color: white;
-    z-index: 1;
-    max-width: 600px;
-  }
-  
-  .banner-text h1 {
-    font-size: 3em;
-    margin-bottom: 0.5em;
-  }
-  
-  .banner-text p {
-    font-size: 1.2em;
-    margin-bottom: 1em;
-  }
-  
-  .button {
-    display: inline-block;
-    padding: 0.5em 1em;
-    border: 2px solid white;
-    border-radius: 5px;
-    font-size: 1.2em;
-    text-decoration: none;
-    color: white;
-    transition: all 0.3s ease;
-  }
-  
-  .button:hover {
-    background-color: white;
-    color: #333;
-  }
-  
-  .scroll-to-image {
-    position: relative;
-    width: 100%;
-    height: 800px;
-    background-color: #ebebeb;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  }
-  
-  .scroll-to-image img {
-    width: 60%;
-    height: auto;
-    border-radius: 50px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-  }
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  overflow: hidden;
+}
 
-  .TextImgUniv {
-    text-align: center;
-    color: rgb(0, 0, 0);
-    z-index: 1;
-    max-width: 600px;
-    font-size: 1.2em;
-    margin-top: 20px;
-    margin-bottom: 2em;
-  }
+.banner img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.banner-text {
+  text-align: center;
+  color: white;
+  max-width: 600px;
+}
+
+.banner-text h1 {
+  font-size: 48px;
+  margin-bottom: 8px;
+}
+
+.banner-text p {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.button:hover {
+  background-color: white;
+  color: #333;
+}
+
+.scroll-to-image {
+  position: relative;
+  width: 100%;
+  height: 800px;
+  background-color: #ebebeb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.scroll-to-image img {
+  width: 60%;
+  height: auto;
+  border-radius: 50px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.poem-box {
+	background-color: #ffffff;
+	padding: 20px;
+	border-radius: 60px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	opacity: 0.6;
+}
+
+.poem-box h1 {
+  font-size: 48px;
+}
+
+.poem-box p {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
