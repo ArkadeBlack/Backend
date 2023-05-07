@@ -1,3 +1,55 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.btn{
+    border-width: medium;
+}
+
+.redes{
+    margin-top: 30px;
+    margin-right: 15px;
+}
+
 #logoAp{
     width: 150px;
+}
+
+img{
+    width: 40px;
+    margin-right: 20px;
+}
+
+#facebook:hover {
+    background-color: rgb(46, 106, 163);
+    border-radius: 100%;
+}
+
+#instagram:hover {
+    background: linear-gradient(rgb(194, 37, 142),rgb(228, 224, 27));
+    border-radius: 100%;
+}
+
+#github:hover {
+    background-color: rgb(46, 163, 99);
+    border-radius: 100%;
+}
+
+#twitter:hover {
+    background-color: rgb(109, 177, 240);
+    border-radius: 100%;
+}
+
+@media(max-width: 575px){
+
+    .container{
+        flex-direction: column;
+    }
+    
+    .redes{
+        display: flex;
+        flex-direction: column;
+    }    
+
 }

@@ -1,6 +1,6 @@
 .row{
     padding: 40px;
-    padding-top: 150px;
+    padding-top: 130px;
 }
 
 #fotodeperfil{
@@ -20,6 +20,8 @@ div{
     font-weight: bold;
 }
 
+
 p{
+    padding-top: 20px;
     font-size: 20px;
 }
