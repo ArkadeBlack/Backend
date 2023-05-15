@@ -1,3 +1,4 @@
+E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Entity\hys.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\FmlApplication.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Service\ImpPersonaService.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Entity\Persona.java
@@ -14,6 +15,8 @@ E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Dto\dtoEducacion.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\Dto\JwtDto.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Controller\CExperiencia.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Repository\RExperiencia.java
+E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Service\Shys.java
+E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Controller\CHys.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\Dto\NuevoUsuario.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\Dto\LoginUsuario.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Repository\IPersonaRepository.java
@@ -24,6 +27,7 @@ E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\Controller\Me
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\Service\RolService.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\jwt\JwtProvider.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Service\SEducacion.java
+E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Dto\dtoHys.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\Controller\AuthController.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Service\SExperiencia.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Controller\CEducacion.java
@@ -32,3 +36,4 @@ E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\Repository\iU
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\Entity\Rol.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Repository\REducacion.java
 E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Security\Service\UsuarioService.java
+E:\Proyecto_Final\Backend\src\main\java\com\portfolio\fml\Repository\Rhys.java

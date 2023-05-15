@@ -1,4 +1,5 @@
 com\portfolio\fml\Repository\RExperiencia.class
+com\portfolio\fml\Entity\hys.class
 com\portfolio\fml\Security\Service\RolService.class
 com\portfolio\fml\Service\SExperiencia.class
 com\portfolio\fml\Security\jwt\JwtProvider.class
@@ -11,6 +12,7 @@ com\portfolio\fml\Service\ImpPersonaService.class
 com\portfolio\fml\Entity\Experiencia.class
 com\portfolio\fml\Controller\CEducacion.class
 com\portfolio\fml\Security\Dto\JwtDto.class
+com\portfolio\fml\Dto\dtoHys.class
 com\portfolio\fml\Security\MainSecurity.class
 com\portfolio\fml\Service\SEducacion.class
 com\portfolio\fml\Controller\CExperiencia.class
@@ -19,16 +21,19 @@ com\portfolio\fml\Entity\Educacion.class
 com\portfolio\fml\Interface\IPersonaService.class
 com\portfolio\fml\Controller\PersonaController.class
 com\portfolio\fml\Security\jwt\JwtEntryPoint.class
+com\portfolio\fml\Service\Shys.class
 com\portfolio\fml\Repository\REducacion.class
 com\portfolio\fml\Dto\dtoExperiencia.class
 com\portfolio\fml\Security\Dto\LoginUsuario.class
 com\portfolio\fml\Security\Service\UserDetailsImpl.class
 com\portfolio\fml\Security\Entity\Rol.class
 com\portfolio\fml\Security\Repository\iRolRepository.class
+com\portfolio\fml\Repository\Rhys.class
 com\portfolio\fml\Security\Repository\iUsuarioRepository.class
 com\portfolio\fml\Repository\IPersonaRepository.class
 com\portfolio\fml\Security\Enums\RolNombre.class
 com\portfolio\fml\Security\Service\UsuarioService.class
+com\portfolio\fml\Controller\CHys.class
 com\portfolio\fml\Security\Entity\UsuarioPrincipal.class
 com\portfolio\fml\Security\Controller\AuthController.class
 com\portfolio\fml\FmlApplication.class
