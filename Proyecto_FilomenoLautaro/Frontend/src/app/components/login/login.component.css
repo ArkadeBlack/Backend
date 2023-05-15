@@ -1,0 +1,14 @@
+.row {
+    background: linear-gradient(to right, rgb(27, 27, 27), rgb(224, 224, 224));
+}
+
+.card-body{
+    background-color: rgb(15, 15, 15);
+    border-radius: 16px;
+}
+
+@media (max-width: 1000px) {
+    .row{
+        height: 115vh;
+    }
+  }

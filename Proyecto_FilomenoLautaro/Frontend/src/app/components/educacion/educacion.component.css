@@ -41,3 +41,11 @@ h2, h3{
     margin-top: 50px;
     font-weight: bold;
 }
+
+td{
+    color: white;
+}
+
+#Nocenter{
+    text-align: left;
+}
