@@ -1,8 +1,6 @@
 
 package com.portfolio.fml.Controller;
 
-//imports
-
 import com.portfolio.fml.Dto.dtoEducacion;
 import com.portfolio.fml.Entity.Educacion;
 import com.portfolio.fml.Security.Controller.Mensaje;
@@ -24,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/educacion")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://frontendfml-1110b.web.app")
 public class CEducacion {
     @Autowired
     SEducacion sEducacion;
